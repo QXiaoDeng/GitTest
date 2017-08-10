@@ -10,7 +10,7 @@ namespace JFinalOABLL
     {
         public void add() {
             Console.WriteLine();
-            Console.WriteLine();
+
         }
     }
 }
