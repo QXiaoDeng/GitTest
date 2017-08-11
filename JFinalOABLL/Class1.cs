@@ -9,7 +9,7 @@ namespace JFinalOABLL
     public class Class1
     {
         public void add() {
-            Console.WriteLine();
+            Console.WriteLine("你好，世界！");
 
         }
     }
